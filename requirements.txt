@@ -1,0 +1,12 @@
+streamlit
+openai
+sentence-transformers
+chromadb
+pandas 
+kagglehub[pandas-datasets]
+seaborn
+huggingface_hub
+matplotlib
+langchain
+langchain-community
+python-dotenv
