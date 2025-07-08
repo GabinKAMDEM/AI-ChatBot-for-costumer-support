@@ -1,0 +1,29 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.env/
+.venv/
+env/
+venv/
+.env
+
+# Fichiers Streamlit secrets
+.streamlit/secrets.toml
+
+# Données et sorties
+*.db
+*.sqlite3
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
